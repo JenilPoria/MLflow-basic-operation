@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLflow/mlruns/0/b5a62b5381a841b98c3d71a7cd5693ad/artifacts
+end_time: 1733122167308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5a62b5381a841b98c3d71a7cd5693ad
+run_name: melodic-fawn-530
+run_uuid: b5a62b5381a841b98c3d71a7cd5693ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733122158391
+status: 3
+tags: []
+user_id: Admin

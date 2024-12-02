@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLflow/mlruns/0/9fb55b1f747c4cbe8dfd90aaa180b630/artifacts
+end_time: 1733122491240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fb55b1f747c4cbe8dfd90aaa180b630
+run_name: handsome-trout-373
+run_uuid: 9fb55b1f747c4cbe8dfd90aaa180b630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733122481415
+status: 3
+tags: []
+user_id: Admin
